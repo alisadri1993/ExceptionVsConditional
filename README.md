@@ -27,14 +27,12 @@ Running the Benchmark
 1. 
 Clone the repository:
 
-git clone https://github.com/yourusername/ExceptionVsValidation.git
+https://github.com/alisadri1993/ExceptionVsConditional.git
 
-1. 
 Navigate to the project directory:
 
 cd ExceptionVsValidation
 
-1. 
 Build and run the project:
 
 dotnet run -c Release
