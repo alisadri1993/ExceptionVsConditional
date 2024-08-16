@@ -1,5 +1,5 @@
 
-# Why Validation checks Should Be Preferred Over Exception Handling
+# Why Validation Checks Should Be Preferred Over Exception Handling
 
 
 ## Introduction
