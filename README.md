@@ -1,5 +1,6 @@
 
-# Why Not to Use Exception Handling Instead of Validation
+# Why Validation checks Should Be Preferred Over Exception Handling
+
 
 ## Introduction
 This repository demonstrates the performance and readability differences between using exception handling and validation checks in C#. It provides examples and benchmarks to illustrate why validation checks are generally preferred over exceptions for handling regular control flow.
