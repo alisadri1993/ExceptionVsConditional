@@ -24,7 +24,7 @@ To install BenchmarkDotNet, run the following command in the Package Manager Con
 Install-Package BenchmarkDotNet
 
 Running the Benchmark
-1. 
+
 Clone the repository:
 
 https://github.com/alisadri1993/ExceptionVsConditional.git
@@ -43,24 +43,24 @@ Example Code
 Using Conditional Checks
 public int DivideWithConditional(int numerator, int denominator)
 {
-if (denominator == 0)
-{
-return -1; // Indicate an error
-}
-return numerator / denominator;
+  if (denominator == 0)
+  {
+    return -1; // Indicate an error
+  }
+  return numerator / denominator;
 }
 
 Using Exceptions
 public int DivideWithException(int numerator, int denominator)
 {
-try
-{
-return numerator / denominator;
-}
-catch (DivideByZeroException)
-{
-return -1; // Indicate an error
-}
+  try
+  {
+    return numerator / denominator;
+  }
+  catch (DivideByZeroException)
+  {
+    return -1; // Indicate an error
+  }
 }
 
 Benchmark Results
