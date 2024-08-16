@@ -81,6 +81,7 @@ Conclusion
 
 
 Acknowledgments
-•  BenchmarkDotNet[a relative link](https://learn.microsoft.com/en-us/dotnet/standard/design-guidelines/exceptions-and-performance) for providing a powerful benchmarking library.
 
-•  Micosoft Documentation for guidelines on exceptions and performance.
+•  [BenchmarkDotNet](https://benchmarkdotnet.org/) for providing a powerful benchmarking library.
+
+•  [Microsoft Documentation](https://learn.microsoft.com/en-us/dotnet/standard/design-guidelines/exceptions-and-performance) for guidelines on exceptions and performance.
