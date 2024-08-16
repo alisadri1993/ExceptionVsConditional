@@ -81,8 +81,6 @@ Conclusion
 
 •  Best Practices: Use exceptions for truly exceptional conditions, not for regular control flow.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 Acknowledgments
 •  BenchmarkDotNet for providing a powerful benchmarking library.
