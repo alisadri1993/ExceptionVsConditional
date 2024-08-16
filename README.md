@@ -65,7 +65,8 @@ public int DivideWithException(int numerator, int denominator)
 }
 
 Benchmark Results
-The benchmark results show that using conditional checks is significantly faster than using exceptions for handling validation errors. Exceptions involve additional overhead due to object creation, stack unwinding, and context switching.
+The benchmark results show that using conditional checks is significantly faster than using exceptions for handling validation errors.
+ Exceptions involve additional overhead due to object creation, stack unwinding, and context switching.
 
 Sample Output
 | Method                | Mean           | Error       | StdDev        | Median         |
