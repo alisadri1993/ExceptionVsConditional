@@ -80,8 +80,7 @@ Conclusion
 •  Best Practices: Use exceptions for truly exceptional conditions, not for regular control flow.
 
 
-## Getting Started
+Acknowledgments
+•  BenchmarkDotNet for providing a powerful benchmarking library.
 
-•  [BenchmarkDotNet](https://benchmarkdotnet.org/) for providing a powerful benchmarking library.
-
-•  [Microsoft Documentation](https://learn.microsoft.com/en-us/dotnet/standard/design-guidelines/exceptions-and-performance) for guidelines on exceptions and performance.
+•  Microsoft Documentation for guidelines on exceptions and performance.
